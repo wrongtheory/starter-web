@@ -8,7 +8,12 @@ This is an example to show different parts of the Git repository and various com
 
 ## Purpose
 
+A stated above, the main purpose is to
+provice simple examples for Git training demos.
+
 ## Deployment
+
+This is a simple web project
 
 ## Hot To Contribute
 

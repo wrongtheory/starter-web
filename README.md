@@ -23,3 +23,5 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2015 Git.Training
+
+Please fork this repository and then issue Pull Requests for review."

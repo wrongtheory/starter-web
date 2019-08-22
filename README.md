@@ -18,3 +18,8 @@ This is a simple web project
 ## Hot To Contribute
 
 Sample website with plenty of files for demos
+
+
+### Copyright
+
+2015 Git.Training

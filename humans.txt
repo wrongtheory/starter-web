@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Victor Leunti vleunti@gmail.com
 
 # THANKS
 
